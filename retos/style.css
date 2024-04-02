@@ -1,0 +1,38 @@
+*
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+main
+{
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+}
+.parent
+{
+    font-size: 30px;
+}
+#one
+{
+    text-align: center;
+    background-color: red;
+    margin-left: 450px;
+    width: 300px;
+    height: 50px;
+    border: 2px black groove;
+}
+#two
+{
+    text-align: center;
+    background-color: gray;
+    margin-left: 350px;
+    width: 500px;
+    height: 300px;
+    border: 2px black groove;
+}
+
+
+    
+    
